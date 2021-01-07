@@ -36,6 +36,10 @@ di versi 1.2 ini ada penambahan fitur, memakai thread atau tidak,jika anda tidak
 ```bash
 git clone https://github.com/oendnsk675/moonton_checkerCli-V1.2
 ```
+6. install php.
+```bash
+apt install php
+```
 3. done.... tinggal di buka toolnya.
 
 kalau kurang jelas bisa cek di channel youtube eastlombok team :
@@ -43,18 +47,21 @@ kalau kurang jelas bisa cek di channel youtube eastlombok team :
 
 ## Install di windows
 
-1. download(official) dan install python 3.
-2. clone tool di github di dalam folder github.
+1. download dan install python 3 inget download di offcial websitenya.[click here](https://www.python.org/)
+2. install php, saran install xampp, karna mudah, untuk download xampp [click here](https://www.apachefriends.org/download.html)
+3. install git bash, bisa download disini, [click here](https://git-scm.com/downloads)
+4. setelah install git bash, klik kanan di direktori tempat mau install tool nya, pilih git bash here
+5. clone tool di github di dalam folder github.
 ```bash
 git clone https://github.com/oendnsk675/moonton_checkerCli-V1.2
 ```
-4. atau juga bisa download zipnya.
-5. install paket pendukung( buka terminal kalian,cmd/dll ).
+6. atau juga bisa download zipnya.
+7. install paket pendukung( buka terminal kalian,cmd/dll ).
 ```bash
  pip install futures
  pip install requests
 ```
-6. done.... tinggal di buka toolnya.
+8. done.... tinggal di buka toolnya.
 
 kalau kurang jelas bisa cek di channel youtube eastlombok team :
 [click here](https://www.youtube.com/channel/UCNhysDQ6QCYOtjmWK4WU3hw)
