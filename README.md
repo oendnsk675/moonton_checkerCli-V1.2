@@ -20,7 +20,7 @@ di versi 1.2 ini ada penambahan fitur, memakai thread atau tidak,jika anda tidak
 ```
 2. install python dulu guys.
 ```bash
- apt install python
+ apt install python3
 ```
 3. install python dulu guys.
 ```bash
@@ -28,14 +28,12 @@ di versi 1.2 ini ada penambahan fitur, memakai thread atau tidak,jika anda tidak
 ```
 4. install paket pendukung.
 ```bash
- pip install fake_useragent
- pip install bs4
  pip install futures
- pip install request
+ pip install requests
 ```
 5. clone tool di github.
 ```bash
-git clone https://github.com/oendnsk675/moonton_checkerCli-V1.0.git
+git clone https://github.com/oendnsk675/moonton_checkerCli-V1.2.git
 ```
 3. done.... tinggal di buka toolnya.
 
@@ -47,15 +45,13 @@ kalau kurang jelas bisa cek di channel youtube eastlombok team :
 1. download(official) dan install python 3.
 2. clone tool di github di dalam folder github.
 ```bash
-git clone https://github.com/oendnsk675/moonton_checkerCli-V1.0.git
+git clone https://github.com/oendnsk675/moonton_checkerCli-V1.2.git
 ```
 4. atau juga bisa download zipnya.
 5. install paket pendukung( buka terminal kalian,cmd/dll ).
 ```bash
- pip install fake_useragent
- pip install bs4
  pip install futures
- pip install request
+ pip install requests
 ```
 6. done.... tinggal di buka toolnya.
 
