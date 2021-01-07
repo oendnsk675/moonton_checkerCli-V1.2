@@ -33,7 +33,7 @@ di versi 1.2 ini ada penambahan fitur, memakai thread atau tidak,jika anda tidak
 ```
 5. clone tool di github.
 ```bash
-git clone https://github.com/oendnsk675/moonton_checkerCli-V1.2.git
+git clone https://github.com/oendnsk675/moonton_checkerCli-V1.2
 ```
 3. done.... tinggal di buka toolnya.
 
@@ -45,7 +45,7 @@ kalau kurang jelas bisa cek di channel youtube eastlombok team :
 1. download(official) dan install python 3.
 2. clone tool di github di dalam folder github.
 ```bash
-git clone https://github.com/oendnsk675/moonton_checkerCli-V1.2.git
+git clone https://github.com/oendnsk675/moonton_checkerCli-V1.2
 ```
 4. atau juga bisa download zipnya.
 5. install paket pendukung( buka terminal kalian,cmd/dll ).
