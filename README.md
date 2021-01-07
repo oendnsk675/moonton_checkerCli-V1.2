@@ -66,7 +66,7 @@ kalau kurang jelas bisa cek di channel youtube eastlombok team :
 1. buka tool
 2. jalankan tool dengan perintah
 ```python
-python run.py
+python run.pyc
 ```
 3. ikuti perintah di toolnya
 kalau kurang jelas bisa cek di channel youtube eastlombok team :
