@@ -5,6 +5,7 @@ Tool Moonton checker dari eastlombok team,di buat oleh sayidina ahmadal qososyi,
 ## Persyaratan
 ```bash
 1. python3
+2. php
 2. vpn ex:(nordvpn,express vpn, etc)
 3. futures
 4. request
