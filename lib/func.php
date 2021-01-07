@@ -18,15 +18,5 @@ for ($i=0; $i < count(file($namaFile)) ; $i++) {
 	
 }
 file_put_contents($namaFile, "");
-// $namaFile2 = $combo;
-// $file2 = fopen($namaFile2, "r");
-// for ($x=0; $x < count(file($namaFile2)) ; $x++) { 
-// 	$string2 = trim(fgets($file2));
-// 	if ($string2 != "") {
-// 		$file = fopen($namaFile2, "a");
-// 		fwrite($file, "$string2\n");
-// 		fclose($file);
-// 	}
-// }
 
 ?>
