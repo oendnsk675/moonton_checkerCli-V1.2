@@ -1,4 +1,4 @@
-# Moonton checker cli V1.0
+# Moonton checker cli V1.2
 
 Tool Moonton checker dari eastlombok team,di buat oleh sayidina ahmadal qososyi,tool yang di gunakan untuk auto cek akun login,register moonton target dengan email:passwordnya.
 
