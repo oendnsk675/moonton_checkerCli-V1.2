@@ -17,11 +17,11 @@ di versi 1.2 ini ada penambahan fitur, memakai thread atau tidak,jika anda tidak
 
 1. update and upgrade dulu.
 ```bash
- apt update && upgrade
+ apt update && apt upgrade
 ```
 2. install python dulu guys.
 ```bash
- apt install python3
+ apt install python
 ```
 3. install python dulu guys.
 ```bash
