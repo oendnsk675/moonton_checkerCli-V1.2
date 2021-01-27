@@ -23,7 +23,7 @@ di versi 1.2 ini ada penambahan fitur, memakai thread atau tidak,jika anda tidak
 ```bash
  apt install python
 ```
-3. install python dulu guys.
+3. install git dulu guys.
 ```bash
  apt install git
 ```
@@ -32,15 +32,19 @@ di versi 1.2 ini ada penambahan fitur, memakai thread atau tidak,jika anda tidak
  pip install futures
  pip install requests
 ```
-5. clone tool di github.
+5. masukke direktori sdcard, biar mudah edit-edit tokennya nanti.
+```bash
+ cd /sdcard
+```
+6. setelah masukke sdcard, clone tool di github.
 ```bash
 git clone https://github.com/oendnsk675/moonton_checkerCli-V1.2
 ```
-6. install php.
+7. install php.
 ```bash
 apt install php
 ```
-3. done.... tinggal di buka toolnya.
+8. done.... tinggal di buka toolnya.
 
 kalau kurang jelas bisa cek di channel youtube eastlombok team :
 [click here](https://www.youtube.com/channel/UCNhysDQ6QCYOtjmWK4WU3hw)
