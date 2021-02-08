@@ -24,7 +24,6 @@ token = get_tokens()
 def cek_token(token):
     try:
       response_api = requests.get("https://eastlombok.site/restApi/cekKey.php?key="+token+"&tipe=amazonV3", headers={'User-Agent': 'Mozilla/5.0'})
-      # print(response_api);
       return response_api
     except: exit('Something error, try again\n')
 cek_tokens = cek_token(token)  
